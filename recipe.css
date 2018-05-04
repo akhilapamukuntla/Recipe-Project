@@ -1,0 +1,61 @@
+/*Extra-feature*/
+
+body {
+
+	background-image:url("https://webster.cs.washington.edu/images/silverware.jpg");
+	background-attachment: fixed;
+	color:rgb(64,64,64);
+	font-size:11pt;
+	font-family: "Georgia";
+	padding: 100px;
+} 
+
+
+h1,h2{
+	color:rgb(164,164,0);
+	background-color:rgb(240,240,240);
+	font-family:"Futura";
+	font-size:18pt;	
+	font-weight:normal;
+	text-decoration:underline;
+	letter-spacing: 0.2em;
+}
+
+
+/* Extra-feature*/
+.mainhead {
+	text-align:center;
+	font-size:22pt;
+	font-weight:bold;
+	margin-top: -80px;
+}
+
+
+a {
+	color:rgb(164,164,0);
+	margin-left: 30px;
+}
+
+h2{
+	padding: 10px;
+}
+
+blockquote {
+	font-style:italic;
+	background-color:rgb(255,255,200);
+	max-width: 900px;
+	padding: 5px;
+}
+
+/*Extra-features*/
+ul.ingredients {
+	list-style-image: url('http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/1/pie_icon.gif');
+}
+
+ul.lemonfilling{
+	list-style-image: url('http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/1/pie_icon.gif');
+}
+
+ul.meringue{
+	list-style-image: url('http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/1/pie_icon.gif');
+}

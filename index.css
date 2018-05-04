@@ -1,0 +1,18 @@
+body{
+background-image: url("https://gifimage.net/wp-content/uploads/2017/08/pie-gif-20.gif");
+
+}
+
+
+div{
+	border-style: solid;
+	border-color: #a385c4;
+	border-width: 5px;
+	background-image: url("http://img.freepik.com/free-vector/sliced-lemon-seamless-background_1284-2264.jpg?size=338&ext=jpg");
+}
+
+a {
+	font-size: 20px;
+	padding: 5px;
+	text-decoration: none;
+}
